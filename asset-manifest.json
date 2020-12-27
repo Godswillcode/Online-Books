@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Online-books/static/css/main.9b42133a.chunk.css",
+    "main.js": "/Online-books/static/js/main.d86c7924.chunk.js",
+    "main.js.map": "/Online-books/static/js/main.d86c7924.chunk.js.map",
+    "runtime-main.js": "/Online-books/static/js/runtime-main.ba8e0639.js",
+    "runtime-main.js.map": "/Online-books/static/js/runtime-main.ba8e0639.js.map",
+    "static/css/2.9db35e51.chunk.css": "/Online-books/static/css/2.9db35e51.chunk.css",
+    "static/js/2.c6ec2cfe.chunk.js": "/Online-books/static/js/2.c6ec2cfe.chunk.js",
+    "static/js/2.c6ec2cfe.chunk.js.map": "/Online-books/static/js/2.c6ec2cfe.chunk.js.map",
+    "index.html": "/Online-books/index.html",
+    "precache-manifest.93ea2cf6eddc8dd8a96aad8fd6b3ee92.js": "/Online-books/precache-manifest.93ea2cf6eddc8dd8a96aad8fd6b3ee92.js",
+    "service-worker.js": "/Online-books/service-worker.js",
+    "static/css/2.9db35e51.chunk.css.map": "/Online-books/static/css/2.9db35e51.chunk.css.map",
+    "static/css/main.9b42133a.chunk.css.map": "/Online-books/static/css/main.9b42133a.chunk.css.map",
+    "static/js/2.c6ec2cfe.chunk.js.LICENSE.txt": "/Online-books/static/js/2.c6ec2cfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba8e0639.js",
+    "static/css/2.9db35e51.chunk.css",
+    "static/js/2.c6ec2cfe.chunk.js",
+    "static/css/main.9b42133a.chunk.css",
+    "static/js/main.d86c7924.chunk.js"
+  ]
+}
