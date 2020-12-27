@@ -1,0 +1,51 @@
+.main-image {
+  background: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 80vh;
+  position: relative;
+  background-attachment: fixed;
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.4);
+  width: 100vw;
+  height: 80vh;
+}
+
+.overlay h1 {
+    color: #fff;
+}
+
+.card-title {
+  overflow: hidden;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+  font-size: 16px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+
+/* back to home link */
+
+.home-link {
+  padding: 10px 0 0 10px;
+  color: #fff;
+  font-size: 19px;
+}
+
+.home-link:hover {
+    text-decoration: none;
+    color: tomato;
+}
+
+
+/* media query */
+@media(max-width: 768px) {
+    .overlay h1 {
+        font-size: 2.5rem;
+    }
+}

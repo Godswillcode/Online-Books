@@ -1,0 +1,29 @@
+nav {
+    border-bottom: 2px solid grey;
+}
+
+.nav_link {
+    font-size: 18px;
+    color: seashell;
+    letter-spacing: 1.1px;
+}
+
+.nav_link:hover {
+    text-decoration: none;
+    color: seashell;
+}
+
+.nav_link::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    display: block;
+    background-color: seashell;
+    margin-top: 2px;
+    transition: all .3s;
+}
+
+.nav_link:hover::after {
+    width: 100%;
+    transition: all .3s;
+}

@@ -1,0 +1,50 @@
+.hero {
+  height: 100vh;
+  width: 100%;
+  background-image: url("/images/home-bg.jpg");
+  background-size: cover;
+}
+
+.outer {
+  height: 100vh;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.detail h1 {
+  font-family: "playfair Display", serif;
+  font-size: 65px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+/* button */
+.my-btn {
+  font-weight: 500;
+  padding: 8px 32px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.8s;
+  border-radius: 50px;
+  display: inline-block;
+  letter-spacing: 1px;
+  border: 2px solid #d65106;
+  background: #d65106;
+}
+
+.my-btn-2 {
+  color: #fff;
+}
+
+.my-btn-2:hover {
+  color: #d65106 !important;
+  background: #fff;
+}
+
+/* media query */
+@media (max-width: 768px) {
+  .detail h1 {
+    font-size: 2.3rem;
+  }
+}

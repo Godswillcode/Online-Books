@@ -1,0 +1,13 @@
+body {
+  overflow-x: hidden;
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+ul {
+  list-style: none !important;
+}
+
+button:focus, .btn:focus {
+  outline: 0 !important;
+  box-shadow: none !important;
+}
