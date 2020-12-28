@@ -90,7 +90,7 @@ function Book() {
                   />
                 </FormGroup>
                 <FormGroup className="ml-5">
-                  <Label for="startIndex">Start Index</Label>
+                  <Label for="startIndex">Start from Index</Label>
                   <Input
                     type="number"
                     id="startIndex"
