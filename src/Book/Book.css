@@ -1,16 +1,14 @@
 .main-image {
   background: url("/images/background.jpg");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center center;
   background-size: cover;
   width: 100vw;
   height: 80vh;
-  position: relative;
-  background-attachment: fixed;
 }
 
 .overlay {
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.5);
   width: 100vw;
   height: 80vh;
 }
